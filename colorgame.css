@@ -1,0 +1,195 @@
+body{
+    background: black;
+    
+    
+}
+h1{
+    background-color:wheat;
+    background-size: cover;
+    font-size:50px;
+    background-size: cover;
+    
+    margin-top: 0%;
+    margin-bottom: 0%;
+    padding-bottom: 0%;
+    padding-top: 1.5%;
+    margin-right: 0mm;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+h2{
+    background-color:wheat;
+    padding-top: 1%;
+    padding-bottom: 1.5%;
+    margin-top: 0mm;
+    margin-bottom: 00mm;
+    text-align: center;
+    background-size: cover;
+    margin-right: 0mm;
+    font-size:40px;
+    color: black;
+    text-transform: uppercase;
+    font-family: Arial, Helvetica, sans-serif;
+    background-size:cover;
+}
+.sq1
+{
+    
+    height:150px;
+    width:150px ;
+    background-color: brown;
+    margin: 20px;
+    float:left; 
+    border-radius:1.5mm;
+    transition: background-color 0.5s;
+    
+    
+}
+.sq{
+    margin:0 auto;
+    max-width: 600px;
+    
+    
+
+}
+#navbar
+{
+   
+    border-bottom-color:black;
+    border-left-color: black;
+    border-right-color:black ;
+    padding-right:25px;
+    text-align: center;
+    padding-bottom: 0mm;
+    padding-top: 0mm;
+    color: white;
+    background-color: white;
+    background-size: cover;
+} 
+
+#li1
+{
+    font-size: 20px;
+    color:black;
+    cursor: pointer;
+    margin-top: 0rem;
+    margin-bottom: 0em;
+    justify-content: left;
+    
+    
+   
+    
+}
+#li2
+{
+    font-size: 20px;
+    color: black;
+    margin-top: 0rem;
+    margin-bottom: 0em;
+    
+
+    
+    
+}
+#li3
+{
+    font-size: 20px;
+    color:black;
+    margin-top: 0rem;
+    margin-bottom: 0em;
+    
+
+
+}
+#li4
+{
+    font-size: 20px;
+    color:black;
+    margin-top: 0rem;
+    margin-bottom: 0em;
+    
+    
+
+    
+    
+
+}
+#new
+{
+    color:black;
+    font-size: 20px;
+    margin-top: 0rem;
+    margin-bottom: 0em;
+    
+
+
+}
+#li5
+{
+    color:black;
+    font-size: 20px;
+    
+    color: blue;
+    background-color: white;
+}
+#cl
+{
+    color: red;
+}
+#rgb
+{
+   
+      border-bottom: black;
+}
+#R
+{
+    color: red;
+
+}
+#B{
+    color: blue;
+
+}
+#G{
+    color:green;
+
+}
+#cg
+{
+    color:black;
+}
+#alert
+{
+ 
+    background: red;
+}
+#li1:hover
+{
+    color: white;
+    background-color:steelblue;
+    transition: all 0.3s;
+
+}
+
+#li2:hover
+{
+    color: white;
+    background-color:steelblue;
+    transition: all 0.3s;
+
+}
+#li3:hover
+{
+    color: white;
+    background-color:steelblue;
+    transition: all 0.3s;
+
+}
+#li4:hover
+{
+    color: white;
+    background-color:steelblue;
+    transition: all 0.3s;
+
+}

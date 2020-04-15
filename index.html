@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+    <link href="bootstrap.css" type="text/css" rel="stylesheet">
+    <link href="colorgame.css" type="text/css" rel="stylesheet">
+    <head>
+        <title>color game</title>
+    </head>
+    <body>
+        <h1 id="h1">THE <span id="R">R<span id="G">G</span><span id="B">B</span> <span id='cg'>COLOR GAME</span></h1>
+        <h2 id="h2">value:<span id="change3">rgb color</span> </h2>
+
+        
+        <nav id ="navbar" class="navbar navbar-default">
+            <div class="container-fluid">
+              
+              <ul class="nav navbar-nav navbar-left" id="navcentre" >
+                <li ><a id ="li1" onclick="refresh()">NEW COLORS</a></li>
+                <li class="active"><a id ="li2" href="colorgame.html">EASY</a></li>
+                <li><a id ="li3" href="medium.html">MEDIUM</a></li>
+                <li><a id ="li4" href="hard.html">HARD</a></li>
+                <ul class="nav navbar-nav navbar-right">
+                    <li><a id ="li5" href="#">chances left:<span id="cl">2</span></a></li>
+
+                </ul>
+                
+
+              </ul>
+            </div>
+          </nav>
+
+
+
+
+        <div class="sq">
+            <div class="sq1"></div>
+        <div class="sq1"></div>
+        <div class="sq1"></div>
+
+        </div>
+        
+        
+        
+        
+        
+           
+    </body>
+    <script src="colorgame.js" type="text/javascript"></script>
+    <script src="trial.js" type="text/javascript"></script>
+    <script>
+        function refresh()
+        {
+            location.reload();
+        }
+
+    </script>
+
+</html>
